@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "output.js.map",
+  "sources": [
+    "input.js"
+  ],
+  "sourcesContent": [
+    "console.log('Pizza makes me feel happy');\nconsole.log('Empty boxes of pizza makes me feel sad');\nconsole.log('Having my pizza stolen makes me feel angry');\n\nconsole.log('Coding makes me feel happy');\nconsole.log('Finding bugs makes me feel sad');\nconsole.log('Spending too much time on bugs makes me feel angry');\n"
+  ],
+  "names": [],
+  "mappings": "AAAA,iCAAiC,EAAK;AACtC,gDAAgD,EAAG;AACnD,kDAAkD,EAAK;AACvD;AACA,kCAAkC,EAAK;AACvC,wCAAwC,EAAG;AAC3C,0DAA0D,EAAK;"
+}

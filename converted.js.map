@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "converted.js.map",
+  "sources": [
+    "source.js"
+  ],
+  "sourcesContent": [
+    "problems = 99"
+  ],
+  "names": [],
+  "mappings": "MAAA,MAAQ,GAAG"
+}
